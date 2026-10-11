@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Hi 👋, I'm Ishita Jain</h1>
-  <h3>Python Developer | Problem Solving | Software Development</h3>
+  <h3>BCA Student | Python Developer | Automation & Applied AI</h3>
 </div>
 
 ---
 
 ### 🚀 About Me
-- 🎓 **Computer Science Student**
-- 💻 **Passionate about Software Development & Python**
-- 🧠 **Currently focus on Problem Solving & Data Structures**
-- 🛠️ **Building projects with Python, JSON, and Error Handling**
+- 🎓 **BCA Student** with a strong passion for software engineering and practical development.
+- 💻 **Python Developer** specializing in clean code architecture, JSON data management, and custom error handling.
+- 🤖 **Exploring APIs, Web Automation, & AI** to build smart, real-world utility projects.
+- 🛠️ **Problem Solver**: Focused on writing modular, well-structured, and reliable code.
 
 ---
 
@@ -28,16 +28,16 @@
 ---
 
 ### 🎯 Current Focus
-- 🚀 Mastering Python & Project Architecture
-- 🧩 Solving Logical Coding Problems
-- 💻 Building Clean & Efficient Software Projects
+- 🚀 Advanced Python development and clean software architecture.
+- ⚙️ Building API-driven tools and automation scripts.
+- 🛠️ Enhancing error handling and project scalability.
 
 ---
 
 ### 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishitajain98)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i9103586@gmail.com)
 
 ---
 
-> *"Turning ideas into reliable software."*
+> *"Turning ideas into reliable software through clean code and modern tooling."*
