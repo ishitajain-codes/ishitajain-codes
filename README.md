@@ -1,78 +1,80 @@
-# 👋 Hi, I'm Ishita Jain
+# ✦ Ishita Jain
 
-### BCA Student | Python Developer | Building & Learning
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=BCA+Student;Python+Developer;Building+%7C+Learning+%7C+Improving" />
+</p>
 
-I'm a BCA student who enjoys learning through practical projects and experimenting with code.
-
-I like understanding how things work behind the scenes rather than just making something work. 
-Currently, I'm focused on strengthening my programming fundamentals, building real-world projects, 
-and gradually exploring more areas of software development.
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 BCA Student
-- 🐍 Currently working with Python
-- 🚀 Learning by building practical projects
-- 🧠 Improving problem-solving and programming fundamentals
-- 🔍 Exploring APIs, data handling and better code structure
-- 📈 Interested in building useful, real-world applications
-- 🌱 Always learning something new
+<p align="center">
+  <a href="https://github.com/ishitajain-codes">
+    <img src="https://komarev.com/ghpvc/?username=ishitajain-codes&label=PROFILE+VIEWS&style=flat-square&color=7C3AED" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👋 About Me
 
-### Languages & Core
+I’m a BCA student with a growing interest in software development and practical problem-solving. I enjoy turning concepts into functional projects and learning through hands-on development.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+Currently, I’m focused on strengthening my programming fundamentals, writing structured and reliable code, and developing a better understanding of how real-world applications are built.
+
+I believe in consistent learning, practical implementation, and improving with every project I build.
+
+---
+
+## ⚡ Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="55"/>
 </p>
 
 ### Tools
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/>
 </p>
 
-### Currently Learning
+### Concepts & Currently Exploring
 
-<p>
-  <img src="https://img.shields.io/badge/APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Error%20Handling-FF9800?style=for-the-badge"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/OOP-6C5CE7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs-00A896?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JSON-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Error%20Handling-E67E22?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Work
 
 ### 📊 StockWise
 
-A Python-based stock portfolio application designed to help users track investments,
-calculate profit/loss, and understand their overall portfolio through useful insights.
+A practical Python application for managing a stock portfolio, calculating profit and loss, and generating useful portfolio insights.
 
-**Built with:** Python • JSON • Data Handling • Error Handling
+**Focus:**  
+`Python` · `Data Handling` · `JSON` · `Error Handling` · `Project Structure`
 
-🔗 [View Repository](https://github.com/ishitajain-codes)
+<p>
+  <a href="YOUR_STOCKWISE_REPOSITORY_URL">
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📚 What I'm Learning
+## 🧩 What I'm Working On
 
 ```text
-Python Fundamentals
-        ↓
-Problem Solving
-        ↓
-OOP & Error Handling
-        ↓
-APIs & External Data
-        ↓
-Building Real-World Projects
-        ↓
-Advanced Development
+Python
+  ├── Stronger Fundamentals
+  ├── OOP
+  ├── Error Handling
+  └── Data Handling
+
+Development
+  ├── APIs
+  ├── JSON
+  ├── Project Structure
+  └── Real-World Applications
