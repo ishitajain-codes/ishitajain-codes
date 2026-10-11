@@ -1,7 +1,11 @@
 # ✦ Ishita Jain
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=BCA+Student;Python+Developer;Building+%7C+Learning+%7C+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=BCA+Student;Python+Developer;Learning+%7C+Building+%7C+Improving" />
+</p>
+
+<p align="center">
+  <i>Turning what I learn into things I can actually build.</i>
 </p>
 
 <p align="center">
@@ -12,69 +16,114 @@
 
 ---
 
-## 👋 About Me
+## 👩🏻‍💻 About Me
 
-I’m a BCA student with a growing interest in software development and practical problem-solving. I enjoy turning concepts into functional projects and learning through hands-on development.
+I’m a BCA student with a growing interest in software development and practical problem-solving.
 
-Currently, I’m focused on strengthening my programming fundamentals, writing structured and reliable code, and developing a better understanding of how real-world applications are built.
+I enjoy learning through hands-on development — taking a concept, understanding how it works, and turning it into something functional. My current focus is on building a strong programming foundation, writing structured code, and gaining practical experience through projects.
 
-I believe in consistent learning, practical implementation, and improving with every project I build.
+I’m at the stage of my journey where every project is an opportunity to understand something better, solve a new problem, and improve the way I write code.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="55"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,json" />
 </p>
 
-### Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/>
+<p align="center">
+  <i>Core technologies I use and continue to develop with.</i>
 </p>
 
-### Concepts & Currently Exploring
+### Concepts
 
-<p align="left">
-  <img src="https://img.shields.io/badge/OOP-6C5CE7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/APIs-00A896?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JSON-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Error%20Handling-E67E22?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Error%20Handling-D97706?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Handling-059669?style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 Featured Work
+# 🚀 Featured Project
 
-### 📊 StockWise
+## 📊 StockWise
 
-A practical Python application for managing a stock portfolio, calculating profit and loss, and generating useful portfolio insights.
+<p>
+  <i>A practical Python project designed to make stock portfolio tracking simple and insightful.</i>
+</p>
 
-**Focus:**  
-`Python` · `Data Handling` · `JSON` · `Error Handling` · `Project Structure`
+StockWise allows users to manage their stock investments, calculate profit and loss, and get an overall view of their portfolio performance.
+
+### Highlights
+
+- 📈 Portfolio tracking
+- 💰 Profit & loss calculation
+- 📊 Portfolio insights
+- 🗂️ Data storage and handling
+- ⚠️ Input validation and error handling
+- 📉 Visual representation of portfolio performance
 
 <p>
   <a href="YOUR_STOCKWISE_REPOSITORY_URL">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧩 What I'm Working On
+# 🧠 Learning Approach
+
+<p align="center">
+
+<b>Learn</b>
+&nbsp; → &nbsp;
+<b>Build</b>
+&nbsp; → &nbsp;
+<b>Debug</b>
+&nbsp; → &nbsp;
+<b>Understand</b>
+&nbsp; → &nbsp;
+<b>Improve</b>
+
+</p>
+
+<p align="center">
+  <i>I prefer understanding the logic behind my code rather than simply making it work.</i>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishitajain-codes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishitajain-codes&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ishitajain-codes&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌱 A Little About My Journey
 
 ```text
-Python
-  ├── Stronger Fundamentals
-  ├── OOP
-  ├── Error Handling
-  └── Data Handling
-
-Development
-  ├── APIs
-  ├── JSON
-  ├── Project Structure
-  └── Real-World Applications
+Curiosity
+    ↓
+Learning
+    ↓
+Experimenting
+    ↓
+Building Projects
+    ↓
+Learning From Mistakes
+    ↓
+Becoming Better
